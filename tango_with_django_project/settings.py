@@ -24,6 +24,8 @@ DEBUG = True
 
 TEMPLATE_DEBUG = True
 
+LOGIN_URL = '/rango/login/'
+
 ALLOWED_HOSTS = []
 
 # Application definition
